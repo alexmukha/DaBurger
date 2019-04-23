@@ -4,7 +4,6 @@
 
 body {
 	position: relative;
-	/* font-family: 'Passion One', cursive; */
 	font-size: 2em;
 }
 
@@ -30,11 +29,6 @@ h1 {
 
 #page-name {
 	text-align: center;
-	margin: 30px 0;
-}
-
-#main-image {
-	height: 150px;
 }
 
 .col-left {
